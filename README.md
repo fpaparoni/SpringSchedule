@@ -1,2 +1,2 @@
 # SpringSchedule
-Schedulare dei task con Spring e @Schedule
+Schedulare dei task con Spring, @Schedule e Quartz
